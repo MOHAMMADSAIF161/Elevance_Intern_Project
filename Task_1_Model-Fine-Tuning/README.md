@@ -83,21 +83,16 @@ Task_1_Model-Fine-Tuneing/
 
 ├── datasets/
 │   ├── README.md
-│   └── sample_images/
-│       ├── image1.jpg
-│       ├── image2.jpg
-│       └── image3.jpg
 
 ├── notebooks/
 │   └── Flower_FineTuning.ipynb
 
 ├── outputs/
-│   ├── generated_images/
 │   └── comparison/
 
 ├── model/
 │   ├── README.md
-│   └── download_model.md
+│   
 
 ├── images/
 
@@ -147,13 +142,13 @@ pytorch_lora_weights.safetensors
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/AI_Intern_Project.git
+git clone https://github.com/MOHAMMADSAIF161/Elevance_Intern_Project.git
 ```
 
 ### Go to Task 1
 
 ```bash
-cd AI_Intern_Project/Task_1_Model-Fine-Tuneing
+cd Elevance_Intern_Project/Task_1_Model-Fine-Tuning
 ```
 
 ### Install dependencies
@@ -189,71 +184,19 @@ python inference.py
 ```
 A beautiful sunflower in a garden
 
-A red rose with green leaves
+A Pink Primerose in a garden
 
-A white daisy blooming in nature
+A Lotus in a Water
 
-A colorful tulip field during spring
+A Hibscucs with MultiColurs
 
-A realistic lotus flower floating on water
+A Rose Flower In a Rain 
 ```
 
----
-
-# 🖼 Results
-
-## Before Fine-Tuning
-
-*(Insert image here)*
-
-Example:
-
-```
-outputs/comparison/before.png
-```
-
----
-
-## After Fine-Tuning
-
-*(Insert image here)*
-
-Example:
-
-```
-outputs/comparison/after.png
-```
-
----
-
-## Generated Images
-
-Some generated examples:
-
-- 🌻 Sunflower
-- 🌹 Rose
-- 🌷 Tulip
-- 🌼 Daisy
-
-Images are available inside:
-
-```
-outputs/generated_images/
-```
-
----
 
 # 📦 Model
 
 The fine-tuned LoRA weights are not included in this repository due to GitHub file size limitations.
-
-You can download them using the instructions inside:
-
-```
-model/download_model.md
-```
-
----
 
 # 📚 Future Improvements
 
