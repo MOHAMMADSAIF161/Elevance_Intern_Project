@@ -1,0 +1,13 @@
+## Dataset
+
+This project uses the Oxford 102 Flower Dataset.
+
+Dataset Download:
+- Official: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+- Google Drive (prepared dataset): https://drive.google.com/drive/folders/1ovnlF3feyTwQzyZ3lDYpcdAi-o1t0SsR?usp=sharing
+
+Dataset Structure:
+
+datasets/
+├── jpg/
+└── metadata.jsonl

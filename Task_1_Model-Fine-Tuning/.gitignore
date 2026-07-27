@@ -1,0 +1,62 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ==========================
+# Model Weights
+# ==========================
+*.ckpt
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# LoRA Outputs
+lora_output/
+model/lora_output/
+checkpoints/
+
+# ==========================
+# Generated Outputs
+# ==========================
+outputs/generated_images/
+outputs/comparison/
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+.idea/
+
+# ==========================
+# Hugging Face Cache
+# ==========================
+.cache/
