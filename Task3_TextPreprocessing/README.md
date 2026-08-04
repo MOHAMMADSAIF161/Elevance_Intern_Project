@@ -128,14 +128,6 @@ The project generates the following outputs:
 
 Images generated using Stable Diffusion v1.5 from the generated prompt embeddings.
 
-Saved inside:
-
-```
-outputs/Generated_Images/
-```
-
----
-
 ## ▶️ Installation
 
 Clone the repository
